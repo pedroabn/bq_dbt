@@ -1,0 +1,301 @@
+date,channel,platform,campaign_id,campaign,objective,ad_group,creative_id,device,region,status,budget_daily,currency,impressions,clicks,conversions,revenue
+2025-01-01,google_ads,google,3,Placa de vídeo,traffic,Lançamento,cr_1167,desktop,AL,active,1010.73,BRL,3446,104,8,14616.92
+2025-01-01,google_ads,google,4,Monitor,conversions,Imposto 0,cr_9027,mobile,CE,active,1344.46,BRL,1552,57,2,2896.82
+2025-01-01,google_ads,google,3,Placa de vídeo,traffic,Promo Janeiro,cr_3654,mobile,SE,active,413.73,BRL,3282,126,7,8939.08
+2025-01-01,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_8054,desktop,AL,active,1975.6,BRL,826,47,2,2973.67
+2025-01-01,google_ads,google,1,CPU,conversions,Imposto 0,cr_9098,desktop,BA,active,1241.87,BRL,3739,211,7,10468.29
+2025-01-01,google_ads,google,5,Periféricos,awareness,Black Friday,cr_5320,mobile,CE,active,1817.48,BRL,3060,141,7,9751.39
+2025-01-01,google_ads,google,1,CPU,conversions,Imposto 0,cr_4585,mobile,PE,active,1758.48,BRL,2516,90,6,8376.78
+2025-01-01,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_1741,desktop,AL,active,1873.28,BRL,3280,95,6,5377.5
+2025-01-01,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_6987,desktop,CE,active,763.33,BRL,2198,92,5,6213.85
+2025-01-01,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_6227,desktop,RN,active,585.83,BRL,2464,138,10,12865.0
+2025-01-02,google_ads,google,4,Monitor,conversions,Remarketing,cr_1065,mobile,SE,active,360.7,BRL,3742,166,13,14907.23
+2025-01-02,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_6527,mobile,CE,active,1107.22,BRL,2585,80,4,5629.66
+2025-01-02,google_ads,google,1,CPU,conversions,Remarketing,cr_4201,desktop,SE,active,260.71,BRL,632,34,2,1980.77
+2025-01-02,google_ads,google,1,CPU,conversions,Black Friday,cr_5046,desktop,SE,active,656.53,BRL,3743,199,11,11091.32
+2025-01-02,google_ads,google,1,CPU,conversions,Remarketing,cr_4510,mobile,CE,active,678.86,BRL,2511,53,3,5254.11
+2025-01-02,google_ads,google,5,Periféricos,awareness,Lançamento,cr_5837,desktop,SE,active,150.24,BRL,2359,138,8,9667.84
+2025-01-02,google_ads,google,5,Periféricos,awareness,Black Friday,cr_2428,mobile,CE,active,522.18,BRL,1284,58,2,2724.72
+2025-01-02,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_8217,mobile,BA,active,1501.02,BRL,1722,61,4,6141.68
+2025-01-02,google_ads,google,3,Placa de vídeo,traffic,Black Friday,cr_7821,mobile,RN,active,1446.82,BRL,3985,168,7,5601.57
+2025-01-02,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_2914,desktop,AL,active,565.92,BRL,3144,111,4,3442.57
+2025-01-03,google_ads,google,4,Monitor,conversions,Black Friday,cr_2216,desktop,SE,active,1093.11,BRL,2062,77,4,6832.13
+2025-01-03,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_3278,mobile,RN,active,1946.14,BRL,1184,51,3,3182.24
+2025-01-03,google_ads,google,3,Placa de vídeo,traffic,Black Friday,cr_2306,mobile,CE,active,467.42,BRL,927,50,2,2947.24
+2025-01-03,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_9958,mobile,AL,active,1661.39,BRL,2460,99,3,4966.86
+2025-01-03,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_2500,desktop,AL,active,1436.39,BRL,3916,111,4,5617.27
+2025-01-03,google_ads,google,5,Periféricos,awareness,Remarketing,cr_8966,mobile,BA,active,1974.69,BRL,2046,49,2,3766.51
+2025-01-03,google_ads,google,1,CPU,conversions,Imposto 0,cr_9839,desktop,SE,active,565.12,BRL,2765,143,9,17169.08
+2025-01-03,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_7986,desktop,PE,active,1055.12,BRL,1982,39,2,3206.14
+2025-01-03,google_ads,google,5,Periféricos,awareness,Remarketing,cr_9571,mobile,RN,active,357.35,BRL,2747,86,5,8639.84
+2025-01-03,google_ads,google,4,Monitor,conversions,Imposto 0,cr_1649,mobile,RN,active,807.25,BRL,1106,55,2,3776.06
+2025-01-04,google_ads,google,3,Placa de vídeo,traffic,Black Friday,cr_1178,desktop,BA,active,1778.49,BRL,3741,95,6,5802.1
+2025-01-04,google_ads,google,5,Periféricos,awareness,Lançamento,cr_4100,desktop,RN,active,1302.66,BRL,2756,90,7,13084.96
+2025-01-04,google_ads,google,5,Periféricos,awareness,Black Friday,cr_3120,desktop,PE,active,1312.45,BRL,1419,75,3,4861.86
+2025-01-04,google_ads,google,2,Memoria RAM,conversions,Promo Janeiro,cr_5862,desktop,RN,active,1423.99,BRL,864,44,3,5563.77
+2025-01-04,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_9058,desktop,AL,active,403.31,BRL,1166,62,3,5942.06
+2025-01-04,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_6986,mobile,RN,active,1799.11,BRL,2153,84,3,5677.69
+2025-01-04,google_ads,google,1,CPU,conversions,Remarketing,cr_8458,mobile,CE,active,122.53,BRL,981,51,1,1949.44
+2025-01-04,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_5546,desktop,RN,active,633.94,BRL,2478,52,2,3616.3
+2025-01-04,google_ads,google,1,CPU,conversions,Imposto 0,cr_6324,desktop,RN,active,1278.88,BRL,2367,122,8,11060.71
+2025-01-04,google_ads,google,4,Monitor,conversions,Remarketing,cr_9169,mobile,PE,active,1731.26,BRL,1447,50,2,3638.64
+2025-01-05,google_ads,google,1,CPU,conversions,Imposto 0,cr_2931,desktop,PE,active,1067.5,BRL,3483,103,3,4168.62
+2025-01-05,google_ads,google,3,Placa de vídeo,traffic,Promo Janeiro,cr_4501,mobile,PE,active,1066.04,BRL,1236,31,2,2339.16
+2025-01-05,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_2002,desktop,AL,active,676.67,BRL,2444,104,5,7583.49
+2025-01-05,google_ads,google,5,Periféricos,awareness,Lançamento,cr_5853,desktop,AL,active,188.9,BRL,1834,45,2,2471.64
+2025-01-05,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_2373,desktop,CE,active,575.38,BRL,3434,188,12,13223.84
+2025-01-05,google_ads,google,3,Placa de vídeo,traffic,Lançamento,cr_4876,mobile,AL,active,790.27,BRL,3298,95,4,6906.72
+2025-01-05,google_ads,google,5,Periféricos,awareness,Black Friday,cr_3558,desktop,CE,active,1566.55,BRL,2573,68,4,4655.01
+2025-01-05,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_6400,mobile,BA,active,1540.17,BRL,1925,47,2,1660.49
+2025-01-05,google_ads,google,2,Memoria RAM,conversions,Lançamento,cr_4987,desktop,RN,active,1193.19,BRL,862,28,1,1625.15
+2025-01-05,google_ads,google,3,Placa de vídeo,traffic,Promo Janeiro,cr_9932,mobile,CE,active,1710.15,BRL,944,51,2,2929.93
+2025-01-06,google_ads,google,4,Monitor,conversions,Lançamento,cr_9906,mobile,RN,active,1399.42,BRL,2328,71,3,4806.91
+2025-01-06,google_ads,google,5,Periféricos,awareness,Lançamento,cr_4975,mobile,CE,active,731.47,BRL,3505,155,8,14944.95
+2025-01-06,google_ads,google,5,Periféricos,awareness,Lançamento,cr_6594,desktop,SE,active,244.52,BRL,567,26,1,988.18
+2025-01-06,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_5473,mobile,RN,active,1304.53,BRL,1650,97,4,5853.22
+2025-01-06,google_ads,google,5,Periféricos,awareness,Remarketing,cr_6660,desktop,CE,active,166.69,BRL,1813,76,6,9013.35
+2025-01-06,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_3815,mobile,BA,active,1542.7,BRL,809,20,1,1011.73
+2025-01-06,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_6771,mobile,PE,active,1028.93,BRL,3389,109,5,6402.76
+2025-01-06,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_9011,mobile,PE,active,1602.58,BRL,1928,61,3,4905.68
+2025-01-06,google_ads,google,3,Placa de vídeo,traffic,Black Friday,cr_8202,desktop,PE,active,590.36,BRL,967,26,1,1223.67
+2025-01-06,google_ads,google,1,CPU,conversions,Imposto 0,cr_3749,desktop,RN,active,144.73,BRL,2345,122,4,4460.35
+2025-01-07,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_1863,mobile,RN,active,733.17,BRL,2779,116,3,3617.99
+2025-01-07,google_ads,google,4,Monitor,conversions,Black Friday,cr_9832,desktop,AL,active,164.53,BRL,1864,83,5,8751.85
+2025-01-07,google_ads,google,5,Periféricos,awareness,Black Friday,cr_6471,mobile,RN,active,238.94,BRL,1036,27,1,1273.89
+2025-01-07,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_8936,desktop,PE,active,1156.51,BRL,2687,120,6,5293.82
+2025-01-07,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_6502,desktop,RN,active,652.45,BRL,1268,27,2,3258.11
+2025-01-07,google_ads,google,4,Monitor,conversions,Imposto 0,cr_5419,desktop,RN,active,1818.86,BRL,3436,84,5,9485.92
+2025-01-07,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_9490,desktop,PE,active,1578.5,BRL,1487,60,1,1115.04
+2025-01-07,google_ads,google,1,CPU,conversions,Remarketing,cr_8998,mobile,RN,active,1304.61,BRL,1402,28,1,1340.24
+2025-01-07,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_8739,mobile,BA,active,1956.82,BRL,3788,162,12,17147.16
+2025-01-07,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_8222,desktop,BA,active,1772.06,BRL,567,30,1,1632.07
+2025-01-08,google_ads,google,4,Monitor,conversions,Black Friday,cr_1989,mobile,AL,active,1092.08,BRL,1610,71,4,5548.43
+2025-01-08,google_ads,google,1,CPU,conversions,Imposto 0,cr_3507,mobile,SE,active,1557.71,BRL,879,37,1,1088.07
+2025-01-08,google_ads,google,3,Placa de vídeo,traffic,Lançamento,cr_5355,desktop,SE,active,1533.78,BRL,1355,48,3,3274.91
+2025-01-08,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_7782,mobile,AL,active,193.55,BRL,1244,57,4,7048.09
+2025-01-08,google_ads,google,1,CPU,conversions,Remarketing,cr_2429,mobile,RN,active,806.76,BRL,1848,93,3,5116.09
+2025-01-08,google_ads,google,5,Periféricos,awareness,Remarketing,cr_8492,mobile,AL,active,821.95,BRL,1694,68,4,5964.65
+2025-01-08,google_ads,google,3,Placa de vídeo,traffic,Lançamento,cr_9079,desktop,BA,active,1231.53,BRL,1936,75,5,8898.87
+2025-01-08,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_3316,mobile,SE,active,1061.3,BRL,2486,127,9,17256.14
+2025-01-08,google_ads,google,3,Placa de vídeo,traffic,Black Friday,cr_8055,mobile,AL,active,1457.5,BRL,2703,73,4,3645.04
+2025-01-08,google_ads,google,4,Monitor,conversions,Imposto 0,cr_7351,desktop,RN,active,1927.79,BRL,3632,138,4,6223.4
+2025-01-09,google_ads,google,4,Monitor,conversions,Remarketing,cr_6661,mobile,AL,active,1912.11,BRL,2115,126,7,6600.28
+2025-01-09,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_6014,desktop,CE,active,550.05,BRL,1372,69,5,9210.62
+2025-01-09,google_ads,google,2,Memoria RAM,conversions,Promo Janeiro,cr_5861,mobile,AL,active,682.36,BRL,1573,73,2,1600.94
+2025-01-09,google_ads,google,1,CPU,conversions,Lançamento,cr_7333,desktop,PE,active,1234.87,BRL,2897,133,4,5424.16
+2025-01-09,google_ads,google,1,CPU,conversions,Remarketing,cr_7816,mobile,AL,active,1560.15,BRL,839,24,0,0.0
+2025-01-09,google_ads,google,4,Monitor,conversions,Black Friday,cr_2330,mobile,RN,active,324.6,BRL,2758,121,8,12419.37
+2025-01-09,google_ads,google,3,Placa de vídeo,traffic,Lançamento,cr_3834,desktop,RN,active,1963.11,BRL,651,14,1,1631.6
+2025-01-09,google_ads,google,1,CPU,conversions,Remarketing,cr_7430,mobile,BA,active,1857.92,BRL,2476,112,7,8996.49
+2025-01-09,google_ads,google,5,Periféricos,awareness,Remarketing,cr_9287,desktop,BA,active,1241.3,BRL,3490,200,9,8443.87
+2025-01-09,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_7560,mobile,RN,active,1609.58,BRL,2483,77,5,8145.97
+2025-01-10,google_ads,google,2,Memoria RAM,conversions,Promo Janeiro,cr_3250,desktop,SE,active,319.93,BRL,677,20,0,0.0
+2025-01-10,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_5892,desktop,BA,active,1000.15,BRL,951,33,2,2245.99
+2025-01-10,google_ads,google,4,Monitor,conversions,Lançamento,cr_7783,desktop,AL,active,1888.67,BRL,2137,74,4,6855.92
+2025-01-10,google_ads,google,5,Periféricos,awareness,Remarketing,cr_7002,mobile,PE,active,1029.88,BRL,2390,133,10,12080.06
+2025-01-10,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_6974,mobile,BA,active,445.08,BRL,3215,143,8,14411.3
+2025-01-10,google_ads,google,4,Monitor,conversions,Remarketing,cr_5450,mobile,SE,active,129.38,BRL,2808,81,3,5072.65
+2025-01-10,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_9571,mobile,CE,active,1466.54,BRL,1674,74,4,6084.1
+2025-01-10,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_6426,mobile,PE,active,1590.16,BRL,1407,44,3,3425.58
+2025-01-10,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_7967,desktop,BA,active,1483.6,BRL,2421,143,9,16509.48
+2025-01-10,google_ads,google,2,Memoria RAM,conversions,Black Friday,cr_2247,desktop,BA,active,1462.4,BRL,2625,91,6,7988.43
+2025-01-11,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_8703,desktop,BA,active,1535.08,BRL,2059,83,4,4438.18
+2025-01-11,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_5502,mobile,RN,active,1093.33,BRL,1803,88,5,6708.23
+2025-01-11,google_ads,google,2,Memoria RAM,conversions,Black Friday,cr_1723,desktop,BA,active,346.17,BRL,1282,64,3,5296.51
+2025-01-11,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_9374,mobile,PE,active,1236.76,BRL,3313,182,9,11890.23
+2025-01-11,google_ads,google,5,Periféricos,awareness,Lançamento,cr_5336,mobile,SE,active,810.81,BRL,834,26,1,1513.27
+2025-01-11,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_9963,mobile,RN,active,1493.61,BRL,1374,31,2,3008.22
+2025-01-11,google_ads,google,2,Memoria RAM,conversions,Promo Janeiro,cr_8839,mobile,PE,active,980.58,BRL,1823,95,3,4071.02
+2025-01-11,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_7049,mobile,AL,active,1572.62,BRL,2548,110,4,4430.33
+2025-01-11,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_8605,mobile,PE,active,373.0,BRL,2229,103,6,9730.19
+2025-01-11,google_ads,google,5,Periféricos,awareness,Lançamento,cr_1621,desktop,RN,active,1894.26,BRL,1640,65,3,3221.28
+2025-01-12,google_ads,google,4,Monitor,conversions,Imposto 0,cr_4348,desktop,SE,active,123.4,BRL,893,38,2,1682.78
+2025-01-12,google_ads,google,5,Periféricos,awareness,Remarketing,cr_1677,mobile,RN,active,152.16,BRL,1857,38,1,1121.25
+2025-01-12,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_1750,desktop,SE,active,1602.06,BRL,507,20,0,0.0
+2025-01-12,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_6291,desktop,AL,active,1364.98,BRL,1974,44,2,3272.4
+2025-01-12,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_1601,desktop,BA,active,1769.93,BRL,655,33,2,2983.45
+2025-01-12,google_ads,google,1,CPU,conversions,Lançamento,cr_1389,desktop,PE,active,1306.69,BRL,2524,65,4,4655.32
+2025-01-12,google_ads,google,1,CPU,conversions,Black Friday,cr_4996,desktop,BA,active,933.67,BRL,3580,112,6,7488.3
+2025-01-12,google_ads,google,4,Monitor,conversions,Black Friday,cr_5659,desktop,CE,active,498.02,BRL,1435,75,5,8043.46
+2025-01-12,google_ads,google,2,Memoria RAM,conversions,Lançamento,cr_1813,desktop,AL,active,1835.95,BRL,3497,184,13,21648.85
+2025-01-12,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_2021,desktop,BA,active,573.57,BRL,3634,77,3,4615.79
+2025-01-13,google_ads,google,3,Placa de vídeo,traffic,Promo Janeiro,cr_3922,desktop,AL,active,227.24,BRL,1166,32,1,1878.12
+2025-01-13,google_ads,google,4,Monitor,conversions,Lançamento,cr_5197,desktop,PE,active,510.42,BRL,3923,206,16,31584.63
+2025-01-13,google_ads,google,3,Placa de vídeo,traffic,Lançamento,cr_6975,mobile,RN,active,1989.41,BRL,2030,108,3,2977.09
+2025-01-13,google_ads,google,1,CPU,conversions,Lançamento,cr_2453,desktop,SE,active,587.34,BRL,3513,103,4,4415.67
+2025-01-13,google_ads,google,2,Memoria RAM,conversions,Black Friday,cr_1110,mobile,PE,active,712.83,BRL,925,26,1,863.62
+2025-01-13,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_1255,desktop,CE,active,1117.35,BRL,2577,121,5,5210.55
+2025-01-13,google_ads,google,2,Memoria RAM,conversions,Promo Janeiro,cr_6624,mobile,CE,active,1464.07,BRL,3837,78,3,5367.16
+2025-01-13,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_9773,mobile,CE,active,128.64,BRL,2004,115,7,7400.59
+2025-01-13,google_ads,google,4,Monitor,conversions,Lançamento,cr_5155,mobile,AL,active,1598.15,BRL,1210,28,1,1829.66
+2025-01-13,google_ads,google,4,Monitor,conversions,Imposto 0,cr_6181,desktop,RN,active,1575.65,BRL,1785,96,7,12012.88
+2025-01-14,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_2789,mobile,AL,active,877.41,BRL,1871,50,2,2364.23
+2025-01-14,google_ads,google,5,Periféricos,awareness,Black Friday,cr_4078,mobile,AL,active,1629.47,BRL,519,14,0,0.0
+2025-01-14,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_6182,desktop,AL,active,1673.69,BRL,3444,150,7,5735.94
+2025-01-14,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_1008,mobile,SE,active,1603.14,BRL,706,28,1,1732.93
+2025-01-14,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_9102,desktop,BA,active,1243.96,BRL,648,20,1,916.4
+2025-01-14,google_ads,google,4,Monitor,conversions,Imposto 0,cr_9511,mobile,AL,active,162.2,BRL,649,18,0,0.0
+2025-01-14,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_7368,desktop,AL,active,1714.65,BRL,1855,57,1,1452.09
+2025-01-14,google_ads,google,5,Periféricos,awareness,Black Friday,cr_4024,mobile,RN,active,1659.44,BRL,1651,77,4,4079.52
+2025-01-14,google_ads,google,5,Periféricos,awareness,Remarketing,cr_8911,desktop,RN,active,1417.34,BRL,3923,225,11,17749.48
+2025-01-14,google_ads,google,1,CPU,conversions,Remarketing,cr_7416,desktop,CE,active,954.57,BRL,1250,61,1,873.61
+2025-01-15,google_ads,google,5,Periféricos,awareness,Black Friday,cr_2891,mobile,PE,active,221.75,BRL,1729,91,4,7231.5
+2025-01-15,google_ads,google,4,Monitor,conversions,Black Friday,cr_1143,desktop,CE,active,529.73,BRL,1125,25,0,0.0
+2025-01-15,google_ads,google,1,CPU,conversions,Black Friday,cr_8562,desktop,CE,active,527.61,BRL,3681,85,5,8704.88
+2025-01-15,google_ads,google,1,CPU,conversions,Black Friday,cr_9596,mobile,CE,active,429.78,BRL,1425,53,3,2556.85
+2025-01-15,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_6632,mobile,RN,active,208.86,BRL,3328,152,8,11806.69
+2025-01-15,google_ads,google,5,Periféricos,awareness,Remarketing,cr_5811,desktop,CE,active,371.59,BRL,726,26,1,1067.57
+2025-01-15,google_ads,google,1,CPU,conversions,Lançamento,cr_7894,desktop,CE,active,872.63,BRL,3331,120,4,7186.37
+2025-01-15,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_9200,desktop,SE,active,1860.75,BRL,1945,49,1,1733.58
+2025-01-15,google_ads,google,4,Monitor,conversions,Remarketing,cr_9947,mobile,SE,active,1442.09,BRL,3498,204,6,8913.34
+2025-01-15,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_6638,desktop,PE,active,1357.33,BRL,2936,115,3,3770.08
+2025-01-16,google_ads,google,2,Memoria RAM,conversions,Lançamento,cr_4669,desktop,SE,active,1256.52,BRL,1551,37,2,1760.9
+2025-01-16,google_ads,google,2,Memoria RAM,conversions,Black Friday,cr_4131,desktop,AL,active,788.37,BRL,2337,135,6,5808.83
+2025-01-16,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_7727,desktop,PE,active,152.92,BRL,2634,147,5,8152.75
+2025-01-16,google_ads,google,2,Memoria RAM,conversions,Promo Janeiro,cr_4564,mobile,BA,active,1355.44,BRL,993,47,3,3942.54
+2025-01-16,google_ads,google,5,Periféricos,awareness,Black Friday,cr_1438,desktop,RN,active,1607.31,BRL,3383,179,11,18782.82
+2025-01-16,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_5160,mobile,PE,active,117.82,BRL,1761,104,4,3628.83
+2025-01-16,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_6141,mobile,BA,active,652.08,BRL,3014,123,4,4711.4
+2025-01-16,google_ads,google,4,Monitor,conversions,Remarketing,cr_3153,desktop,BA,active,1993.0,BRL,835,30,1,979.16
+2025-01-16,google_ads,google,1,CPU,conversions,Remarketing,cr_2357,desktop,RN,active,664.52,BRL,782,36,2,2424.25
+2025-01-16,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_5761,desktop,AL,active,1085.15,BRL,3631,83,3,3300.43
+2025-01-17,google_ads,google,4,Monitor,conversions,Remarketing,cr_5214,mobile,BA,active,1865.43,BRL,2793,111,3,4992.64
+2025-01-17,google_ads,google,1,CPU,conversions,Remarketing,cr_2336,mobile,RN,active,1257.0,BRL,1112,41,1,1076.92
+2025-01-17,google_ads,google,1,CPU,conversions,Black Friday,cr_6868,desktop,BA,active,221.92,BRL,2707,103,6,6034.93
+2025-01-17,google_ads,google,1,CPU,conversions,Remarketing,cr_2888,mobile,BA,active,958.99,BRL,2700,111,5,4755.67
+2025-01-17,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_9367,mobile,SE,active,344.32,BRL,1565,65,3,2769.31
+2025-01-17,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_1519,mobile,CE,active,259.62,BRL,3176,134,8,15369.19
+2025-01-17,google_ads,google,5,Periféricos,awareness,Black Friday,cr_8806,desktop,CE,active,688.86,BRL,2345,131,9,17043.89
+2025-01-17,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_9278,mobile,CE,active,1933.58,BRL,3043,156,4,6161.45
+2025-01-17,google_ads,google,4,Monitor,conversions,Imposto 0,cr_1903,desktop,RN,active,1616.15,BRL,3939,133,6,8211.91
+2025-01-17,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_9499,desktop,BA,active,1331.46,BRL,1651,76,4,6479.92
+2025-01-18,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_7432,desktop,CE,active,1597.22,BRL,3509,117,9,16821.8
+2025-01-18,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_8931,mobile,PE,active,690.39,BRL,3302,157,10,14487.89
+2025-01-18,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_3930,mobile,PE,active,969.54,BRL,2646,142,5,5711.81
+2025-01-18,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_4848,desktop,BA,active,866.56,BRL,2114,77,3,4804.85
+2025-01-18,google_ads,google,5,Periféricos,awareness,Lançamento,cr_4730,desktop,CE,active,361.07,BRL,1383,53,3,3715.88
+2025-01-18,google_ads,google,1,CPU,conversions,Remarketing,cr_2701,mobile,CE,active,750.32,BRL,3799,210,11,12413.85
+2025-01-18,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_9643,mobile,AL,active,1388.0,BRL,3034,73,4,5818.93
+2025-01-18,google_ads,google,2,Memoria RAM,conversions,Black Friday,cr_1385,mobile,RN,active,1807.81,BRL,2451,146,9,14672.52
+2025-01-18,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_6048,mobile,AL,active,1360.69,BRL,1017,51,2,2338.93
+2025-01-18,google_ads,google,4,Monitor,conversions,Remarketing,cr_4934,desktop,BA,active,1321.8,BRL,3005,159,8,15914.93
+2025-01-19,google_ads,google,4,Monitor,conversions,Imposto 0,cr_3521,mobile,BA,active,118.47,BRL,1553,74,3,3342.45
+2025-01-19,google_ads,google,2,Memoria RAM,conversions,Promo Janeiro,cr_8501,desktop,AL,active,965.94,BRL,1966,70,3,5395.29
+2025-01-19,google_ads,google,3,Placa de vídeo,traffic,Lançamento,cr_8501,desktop,CE,active,900.8,BRL,1086,52,3,5452.3
+2025-01-19,google_ads,google,4,Monitor,conversions,Imposto 0,cr_7585,desktop,PE,active,465.39,BRL,3161,89,5,9257.21
+2025-01-19,google_ads,google,5,Periféricos,awareness,Lançamento,cr_9301,mobile,BA,active,1266.9,BRL,2265,106,7,12716.14
+2025-01-19,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_9760,mobile,CE,active,117.65,BRL,3894,203,6,9631.47
+2025-01-19,google_ads,google,5,Periféricos,awareness,Remarketing,cr_4393,mobile,AL,active,1001.16,BRL,2522,100,3,3429.05
+2025-01-19,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_9397,desktop,BA,active,1590.32,BRL,3542,91,6,10279.47
+2025-01-19,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_9442,mobile,AL,active,572.37,BRL,1254,28,1,1196.56
+2025-01-19,google_ads,google,4,Monitor,conversions,Black Friday,cr_3726,mobile,PE,active,1954.22,BRL,3146,95,2,2588.7
+2025-01-20,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_9881,desktop,CE,active,327.26,BRL,3092,137,7,7075.29
+2025-01-20,google_ads,google,2,Memoria RAM,conversions,Lançamento,cr_8545,mobile,PE,active,614.97,BRL,1230,55,3,2483.08
+2025-01-20,google_ads,google,5,Periféricos,awareness,Remarketing,cr_5362,desktop,PE,active,821.47,BRL,982,20,0,0.0
+2025-01-20,google_ads,google,2,Memoria RAM,conversions,Promo Janeiro,cr_5949,desktop,RN,active,1088.89,BRL,1677,46,2,1791.97
+2025-01-20,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_9940,mobile,SE,active,642.15,BRL,2439,94,6,9170.34
+2025-01-20,google_ads,google,1,CPU,conversions,Remarketing,cr_3675,mobile,RN,active,139.36,BRL,3774,200,14,11626.52
+2025-01-20,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_5000,desktop,RN,active,568.18,BRL,1316,75,4,4404.09
+2025-01-20,google_ads,google,4,Monitor,conversions,Remarketing,cr_6155,mobile,RN,active,778.68,BRL,1871,99,4,5587.79
+2025-01-20,google_ads,google,5,Periféricos,awareness,Remarketing,cr_9450,mobile,AL,active,398.52,BRL,2192,126,8,13574.15
+2025-01-20,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_7293,desktop,SE,active,1215.14,BRL,2440,96,4,7909.27
+2025-01-21,google_ads,google,5,Periféricos,awareness,Remarketing,cr_3355,mobile,BA,active,649.86,BRL,3675,137,4,5043.66
+2025-01-21,google_ads,google,4,Monitor,conversions,Black Friday,cr_4912,mobile,RN,active,318.71,BRL,1764,50,2,2544.41
+2025-01-21,google_ads,google,5,Periféricos,awareness,Black Friday,cr_6804,desktop,PE,active,1067.52,BRL,3980,201,7,7908.12
+2025-01-21,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_7948,desktop,CE,active,649.07,BRL,1884,68,3,2916.32
+2025-01-21,google_ads,google,1,CPU,conversions,Imposto 0,cr_9476,mobile,CE,active,507.24,BRL,3868,98,5,8097.5
+2025-01-21,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_5162,mobile,PE,active,377.93,BRL,3217,166,6,5373.84
+2025-01-21,google_ads,google,4,Monitor,conversions,Imposto 0,cr_7929,mobile,CE,active,797.36,BRL,3115,103,7,8557.81
+2025-01-21,google_ads,google,1,CPU,conversions,Remarketing,cr_8003,mobile,RN,active,1596.09,BRL,2672,112,7,13329.23
+2025-01-21,google_ads,google,4,Monitor,conversions,Lançamento,cr_4613,mobile,SE,active,687.85,BRL,2168,127,5,7759.45
+2025-01-21,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_7166,desktop,SE,active,239.33,BRL,2896,157,6,8865.8
+2025-01-22,google_ads,google,5,Periféricos,awareness,Remarketing,cr_6690,mobile,RN,active,407.24,BRL,1678,49,1,801.27
+2025-01-22,google_ads,google,1,CPU,conversions,Black Friday,cr_8161,desktop,CE,active,532.85,BRL,3865,121,3,5954.61
+2025-01-22,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_4404,mobile,CE,active,1271.53,BRL,2292,119,5,6066.43
+2025-01-22,google_ads,google,4,Monitor,conversions,Lançamento,cr_2793,mobile,PE,active,716.2,BRL,565,26,0,0.0
+2025-01-22,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_8069,mobile,AL,active,1022.0,BRL,3696,101,4,4564.92
+2025-01-22,google_ads,google,1,CPU,conversions,Imposto 0,cr_2437,mobile,RN,active,296.91,BRL,2974,156,11,18343.78
+2025-01-22,google_ads,google,4,Monitor,conversions,Black Friday,cr_7361,mobile,RN,active,338.83,BRL,2796,131,8,7138.79
+2025-01-22,google_ads,google,5,Periféricos,awareness,Lançamento,cr_4347,mobile,SE,active,841.09,BRL,3283,130,4,6985.91
+2025-01-22,google_ads,google,4,Monitor,conversions,Black Friday,cr_1662,desktop,BA,active,1230.09,BRL,3289,121,9,7736.93
+2025-01-22,google_ads,google,3,Placa de vídeo,traffic,Black Friday,cr_3760,desktop,PE,active,1375.3,BRL,3511,193,9,17370.45
+2025-01-23,google_ads,google,4,Monitor,conversions,Imposto 0,cr_9966,desktop,RN,active,720.75,BRL,1456,71,2,1655.0
+2025-01-23,google_ads,google,5,Periféricos,awareness,Remarketing,cr_9299,mobile,PE,active,1175.8,BRL,1820,89,2,3054.43
+2025-01-23,google_ads,google,2,Memoria RAM,conversions,Lançamento,cr_9756,mobile,SE,active,146.12,BRL,1150,43,2,2979.93
+2025-01-23,google_ads,google,4,Monitor,conversions,Imposto 0,cr_4983,mobile,SE,active,1169.18,BRL,2416,144,9,12619.35
+2025-01-23,google_ads,google,4,Monitor,conversions,Remarketing,cr_7345,desktop,CE,active,1964.25,BRL,3096,166,6,5343.57
+2025-01-23,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_3098,desktop,RN,active,1108.17,BRL,2824,167,9,7919.06
+2025-01-23,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_6880,mobile,BA,active,976.33,BRL,3593,136,7,13985.91
+2025-01-23,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_9185,mobile,RN,active,521.6,BRL,2498,54,1,1239.49
+2025-01-23,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_3239,desktop,BA,active,820.89,BRL,1995,76,4,5415.38
+2025-01-23,google_ads,google,1,CPU,conversions,Black Friday,cr_8950,desktop,SE,active,1444.31,BRL,1911,71,5,6372.45
+2025-01-24,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_9243,desktop,AL,active,1080.81,BRL,1203,33,0,0.0
+2025-01-24,google_ads,google,4,Monitor,conversions,Black Friday,cr_2509,mobile,BA,active,693.26,BRL,2457,77,5,9511.02
+2025-01-24,google_ads,google,5,Periféricos,awareness,Lançamento,cr_7083,desktop,AL,active,396.24,BRL,2166,94,3,4578.97
+2025-01-24,google_ads,google,1,CPU,conversions,Remarketing,cr_6085,desktop,BA,active,363.31,BRL,2017,111,7,12694.63
+2025-01-24,google_ads,google,1,CPU,conversions,Remarketing,cr_4204,desktop,SE,active,1759.37,BRL,2703,67,3,5790.24
+2025-01-24,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_4207,mobile,RN,active,1282.78,BRL,2613,83,2,2484.95
+2025-01-24,google_ads,google,5,Periféricos,awareness,Black Friday,cr_6928,mobile,BA,active,1163.52,BRL,2974,154,6,6813.99
+2025-01-24,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_3302,desktop,BA,active,644.29,BRL,3140,83,5,9451.04
+2025-01-24,google_ads,google,5,Periféricos,awareness,Remarketing,cr_9558,mobile,SE,active,1042.19,BRL,1069,48,3,2652.2
+2025-01-24,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_8570,desktop,PE,active,1414.36,BRL,512,22,1,1993.17
+2025-01-25,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_9767,desktop,AL,active,761.02,BRL,723,35,1,833.93
+2025-01-25,google_ads,google,2,Memoria RAM,conversions,Lançamento,cr_6888,desktop,CE,active,1325.52,BRL,3801,124,8,7191.34
+2025-01-25,google_ads,google,5,Periféricos,awareness,Black Friday,cr_3707,mobile,AL,active,128.48,BRL,1693,89,6,4905.14
+2025-01-25,google_ads,google,4,Monitor,conversions,Lançamento,cr_3750,desktop,SE,active,516.37,BRL,2279,74,2,3763.83
+2025-01-25,google_ads,google,4,Monitor,conversions,Lançamento,cr_1539,desktop,AL,active,1735.44,BRL,1712,48,1,838.94
+2025-01-25,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_5476,mobile,SE,active,1918.43,BRL,2786,148,5,5867.92
+2025-01-25,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_3841,desktop,CE,active,1785.04,BRL,2076,84,6,10883.32
+2025-01-25,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_1871,mobile,AL,active,1407.05,BRL,1849,41,2,3807.73
+2025-01-25,google_ads,google,3,Placa de vídeo,traffic,Promo Janeiro,cr_1152,desktop,PE,active,644.71,BRL,3695,152,9,9832.14
+2025-01-25,google_ads,google,5,Periféricos,awareness,Black Friday,cr_2713,mobile,SE,active,1163.77,BRL,772,32,2,1769.64
+2025-01-26,google_ads,google,3,Placa de vídeo,traffic,Promo Janeiro,cr_5805,desktop,AL,active,150.48,BRL,1172,62,1,1771.39
+2025-01-26,google_ads,google,2,Memoria RAM,conversions,Lançamento,cr_7204,desktop,SE,active,1700.15,BRL,3357,149,9,7965.91
+2025-01-26,google_ads,google,3,Placa de vídeo,traffic,Lançamento,cr_1307,mobile,RN,active,1115.56,BRL,3957,236,17,21493.72
+2025-01-26,google_ads,google,2,Memoria RAM,conversions,Lançamento,cr_6315,desktop,CE,active,1647.13,BRL,1571,88,5,9926.65
+2025-01-26,google_ads,google,2,Memoria RAM,conversions,Promo Janeiro,cr_9454,desktop,BA,active,1252.44,BRL,3618,79,5,6411.9
+2025-01-26,google_ads,google,1,CPU,conversions,Imposto 0,cr_6604,mobile,CE,active,1417.01,BRL,2996,139,6,11716.1
+2025-01-26,google_ads,google,2,Memoria RAM,conversions,Lançamento,cr_9962,mobile,RN,active,1497.55,BRL,3465,89,3,2862.81
+2025-01-26,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_2518,mobile,AL,active,198.11,BRL,3058,178,6,5541.02
+2025-01-26,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_1605,desktop,RN,active,463.89,BRL,1430,48,2,3165.19
+2025-01-26,google_ads,google,2,Memoria RAM,conversions,Remarketing,cr_2497,mobile,PE,active,238.13,BRL,3098,140,11,16147.79
+2025-01-27,google_ads,google,1,CPU,conversions,Black Friday,cr_6871,desktop,RN,active,642.52,BRL,2293,67,2,3772.43
+2025-01-27,google_ads,google,3,Placa de vídeo,traffic,Black Friday,cr_9466,desktop,PE,active,1967.39,BRL,1979,117,7,9800.72
+2025-01-27,google_ads,google,1,CPU,conversions,Black Friday,cr_2348,desktop,RN,active,1846.65,BRL,1293,28,1,1865.73
+2025-01-27,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_9395,desktop,AL,active,128.2,BRL,3123,145,7,7887.61
+2025-01-27,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_7597,mobile,BA,active,460.3,BRL,2645,82,2,3822.31
+2025-01-27,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_1299,desktop,RN,active,1897.33,BRL,3655,183,8,14277.44
+2025-01-27,google_ads,google,1,CPU,conversions,Imposto 0,cr_7913,desktop,CE,active,522.17,BRL,3168,131,8,13057.17
+2025-01-27,google_ads,google,2,Memoria RAM,conversions,Lançamento,cr_3159,desktop,AL,active,1952.28,BRL,3395,191,11,21104.61
+2025-01-27,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_8014,desktop,SE,active,516.62,BRL,3531,71,4,7184.77
+2025-01-27,google_ads,google,1,CPU,conversions,Black Friday,cr_6208,desktop,CE,active,1135.12,BRL,2779,144,9,10229.66
+2025-01-28,google_ads,google,3,Placa de vídeo,traffic,Remarketing,cr_7815,desktop,PE,active,1763.28,BRL,1180,48,3,5848.61
+2025-01-28,google_ads,google,4,Monitor,conversions,Remarketing,cr_7197,desktop,RN,active,1005.68,BRL,2894,121,5,5141.45
+2025-01-28,google_ads,google,5,Periféricos,awareness,Black Friday,cr_3890,desktop,PE,active,752.24,BRL,1645,69,4,6564.75
+2025-01-28,google_ads,google,3,Placa de vídeo,traffic,Lançamento,cr_4588,desktop,CE,active,122.61,BRL,928,53,3,2447.38
+2025-01-28,google_ads,google,3,Placa de vídeo,traffic,Lançamento,cr_1843,desktop,BA,active,1812.96,BRL,2963,163,6,10906.28
+2025-01-28,google_ads,google,5,Periféricos,awareness,Lançamento,cr_8795,mobile,PE,active,921.26,BRL,3080,178,11,21770.94
+2025-01-28,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_5084,desktop,BA,active,1500.74,BRL,1072,62,2,3805.44
+2025-01-28,google_ads,google,5,Periféricos,awareness,Lançamento,cr_6441,mobile,PE,active,242.13,BRL,2867,136,7,8162.43
+2025-01-28,google_ads,google,4,Monitor,conversions,Black Friday,cr_2012,desktop,BA,active,693.11,BRL,1962,70,2,3179.82
+2025-01-28,google_ads,google,4,Monitor,conversions,Remarketing,cr_9664,desktop,SE,active,933.01,BRL,3017,178,12,12472.1
+2025-01-29,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_5219,mobile,PE,active,1773.05,BRL,901,23,1,1913.35
+2025-01-29,google_ads,google,1,CPU,conversions,Promo Janeiro,cr_2617,desktop,PE,active,1107.85,BRL,3339,155,4,6288.76
+2025-01-29,google_ads,google,2,Memoria RAM,conversions,Imposto 0,cr_4431,mobile,AL,active,1023.85,BRL,2171,99,4,6694.63
+2025-01-29,google_ads,google,4,Monitor,conversions,Black Friday,cr_1333,mobile,RN,active,801.29,BRL,3651,110,4,4274.86
+2025-01-29,google_ads,google,4,Monitor,conversions,Black Friday,cr_5040,mobile,CE,active,1905.77,BRL,3001,110,7,9897.01
+2025-01-29,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_8828,desktop,AL,active,1308.11,BRL,3484,185,6,10748.52
+2025-01-29,google_ads,google,3,Placa de vídeo,traffic,Black Friday,cr_6070,desktop,PE,active,1602.99,BRL,3690,204,7,13502.67
+2025-01-29,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_1958,desktop,PE,active,1107.06,BRL,2512,91,5,7091.29
+2025-01-29,google_ads,google,1,CPU,conversions,Lançamento,cr_5801,desktop,RN,active,758.34,BRL,1054,34,2,2086.03
+2025-01-29,google_ads,google,4,Monitor,conversions,Black Friday,cr_4940,mobile,BA,active,347.08,BRL,2456,84,4,7362.28
+2025-01-30,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_4995,desktop,BA,active,474.43,BRL,1537,76,4,4064.93
+2025-01-30,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_7013,mobile,BA,active,1799.09,BRL,3676,82,5,4971.47
+2025-01-30,google_ads,google,4,Monitor,conversions,Promo Janeiro,cr_8941,desktop,AL,active,718.11,BRL,1342,39,1,935.07
+2025-01-30,google_ads,google,3,Placa de vídeo,traffic,Imposto 0,cr_8453,mobile,SE,active,1756.92,BRL,3491,128,3,4067.22
+2025-01-30,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_5444,mobile,AL,active,1214.87,BRL,2117,77,4,5260.15
+2025-01-30,google_ads,google,5,Periféricos,awareness,Promo Janeiro,cr_9729,mobile,RN,active,1776.57,BRL,3526,179,11,16237.96
+2025-01-30,google_ads,google,5,Periféricos,awareness,Remarketing,cr_1082,mobile,SE,active,497.14,BRL,3690,87,4,7038.61
+2025-01-30,google_ads,google,4,Monitor,conversions,Black Friday,cr_1620,mobile,RN,active,852.57,BRL,3887,221,7,11189.79
+2025-01-30,google_ads,google,2,Memoria RAM,conversions,Promo Janeiro,cr_5994,desktop,CE,active,1375.89,BRL,2374,67,3,2881.26
+2025-01-30,google_ads,google,5,Periféricos,awareness,Imposto 0,cr_4409,desktop,CE,active,773.43,BRL,2631,75,2,2983.1

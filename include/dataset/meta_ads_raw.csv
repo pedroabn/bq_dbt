@@ -1,0 +1,301 @@
+date,channel,platform,campaign_id,campaign,objective,ad_group,creative_id,device,region,status,budget_daily,currency,impressions,clicks,conversions,revenue
+2025-01-01,meta_ads,meta,1,CPU,conversions,Lançamento,cr_8353,desktop,RN,active,157.53,BRL,3893,55,0,0.0
+2025-01-01,meta_ads,meta,3,Placa de vídeo,traffic,Promo Janeiro,cr_9170,desktop,SE,active,150.92,BRL,2391,29,0,0.0
+2025-01-01,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_4576,desktop,RN,active,1034.81,BRL,3286,62,1,1559.51
+2025-01-01,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_5753,mobile,BA,active,607.08,BRL,4501,140,6,9094.11
+2025-01-01,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_1467,desktop,AL,active,1791.21,BRL,1565,56,1,1576.59
+2025-01-01,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_3148,desktop,RN,active,1507.96,BRL,2464,92,3,5101.76
+2025-01-01,meta_ads,meta,1,CPU,conversions,Lançamento,cr_2908,mobile,CE,active,1629.74,BRL,3791,150,4,3825.14
+2025-01-01,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_1321,mobile,CE,active,1379.93,BRL,3924,100,1,1282.21
+2025-01-01,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_4458,mobile,RN,active,1267.56,BRL,5926,112,2,2952.46
+2025-01-01,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_6799,desktop,PE,active,1111.38,BRL,5908,61,2,2178.41
+2025-01-02,meta_ads,meta,2,Memoria RAM,conversions,Lançamento,cr_4336,desktop,CE,active,1074.97,BRL,1184,37,1,1163.95
+2025-01-02,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_1419,desktop,PE,active,331.5,BRL,5369,175,6,5600.18
+2025-01-02,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_4335,mobile,SE,active,1225.09,BRL,1458,15,0,0.0
+2025-01-02,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_3762,desktop,SE,active,1042.38,BRL,2720,87,1,866.2
+2025-01-02,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_7086,desktop,RN,active,672.73,BRL,3680,49,0,0.0
+2025-01-02,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_8811,mobile,CE,active,270.15,BRL,2595,35,1,1598.48
+2025-01-02,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_9986,desktop,RN,active,548.46,BRL,5811,119,2,2264.04
+2025-01-02,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_6565,mobile,AL,active,982.5,BRL,1239,45,1,1124.89
+2025-01-02,meta_ads,meta,5,Periféricos,awareness,Imposto 0,cr_2883,mobile,SE,active,1727.35,BRL,5713,203,7,5111.16
+2025-01-02,meta_ads,meta,1,CPU,conversions,Black Friday,cr_3526,desktop,CE,active,1090.64,BRL,4304,153,5,7624.36
+2025-01-03,meta_ads,meta,1,CPU,conversions,Lançamento,cr_4691,desktop,RN,active,527.89,BRL,4555,123,1,1686.07
+2025-01-03,meta_ads,meta,1,CPU,conversions,Black Friday,cr_7695,desktop,PE,active,1072.67,BRL,5103,54,2,1453.64
+2025-01-03,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_7640,desktop,BA,active,1177.65,BRL,3509,73,1,928.19
+2025-01-03,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_5057,mobile,CE,active,1916.46,BRL,1848,28,1,1690.68
+2025-01-03,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_9842,desktop,SE,active,432.82,BRL,2696,48,1,1590.91
+2025-01-03,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_8782,desktop,SE,active,1639.45,BRL,2749,31,0,0.0
+2025-01-03,meta_ads,meta,3,Placa de vídeo,traffic,Imposto 0,cr_6633,desktop,PE,active,1170.77,BRL,5972,206,4,2986.76
+2025-01-03,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_1362,mobile,SE,active,802.82,BRL,1209,19,0,0.0
+2025-01-03,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_7835,desktop,SE,active,328.32,BRL,5058,128,2,2579.3
+2025-01-03,meta_ads,meta,4,Monitor,conversions,Imposto 0,cr_5349,mobile,CE,active,974.51,BRL,2671,83,3,2830.38
+2025-01-04,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_3969,mobile,AL,active,1455.85,BRL,910,20,0,0.0
+2025-01-04,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_6408,desktop,RN,active,442.94,BRL,3805,85,2,2600.16
+2025-01-04,meta_ads,meta,1,CPU,conversions,Black Friday,cr_2018,mobile,BA,active,1072.14,BRL,4184,164,6,6979.66
+2025-01-04,meta_ads,meta,4,Monitor,conversions,Imposto 0,cr_8902,desktop,RN,active,519.87,BRL,5787,140,6,7175.71
+2025-01-04,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_9909,mobile,SE,active,1697.88,BRL,5753,194,8,10308.67
+2025-01-04,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_4117,desktop,CE,active,759.93,BRL,5785,58,1,1749.73
+2025-01-04,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_4191,mobile,PE,active,1216.12,BRL,1393,28,0,0.0
+2025-01-04,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_3478,mobile,RN,active,1863.76,BRL,3787,58,2,3022.99
+2025-01-04,meta_ads,meta,1,CPU,conversions,Remarketing,cr_5945,desktop,SE,active,479.36,BRL,3964,89,2,2309.39
+2025-01-04,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_6240,mobile,SE,active,1184.71,BRL,847,10,0,0.0
+2025-01-05,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_1204,mobile,CE,active,1942.74,BRL,1347,17,0,0.0
+2025-01-05,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_4569,desktop,BA,active,1770.34,BRL,978,12,0,0.0
+2025-01-05,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_5327,mobile,PE,active,657.76,BRL,4953,61,2,2367.94
+2025-01-05,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_7661,desktop,SE,active,801.31,BRL,2185,25,1,1651.52
+2025-01-05,meta_ads,meta,4,Monitor,conversions,Promo Janeiro,cr_6062,desktop,PE,active,1853.4,BRL,3468,76,1,1531.06
+2025-01-05,meta_ads,meta,4,Monitor,conversions,Promo Janeiro,cr_3305,desktop,AL,active,1273.09,BRL,3164,48,1,1276.03
+2025-01-05,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_8193,desktop,SE,active,1686.35,BRL,2558,73,3,2860.49
+2025-01-05,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_7443,desktop,CE,active,1745.67,BRL,2976,40,1,1311.64
+2025-01-05,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_5917,mobile,CE,active,808.39,BRL,1592,26,1,1145.44
+2025-01-05,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_7398,desktop,BA,active,1315.22,BRL,2437,48,1,931.06
+2025-01-06,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_8959,desktop,SE,active,1296.7,BRL,5916,77,3,4600.67
+2025-01-06,meta_ads,meta,2,Memoria RAM,conversions,Lançamento,cr_4908,mobile,SE,active,1572.26,BRL,4251,74,3,2547.22
+2025-01-06,meta_ads,meta,3,Placa de vídeo,traffic,Imposto 0,cr_5753,desktop,BA,active,630.98,BRL,1307,38,1,1498.11
+2025-01-06,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_6997,desktop,AL,active,705.52,BRL,1144,24,0,0.0
+2025-01-06,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_6217,mobile,AL,active,1441.59,BRL,2896,111,2,1830.3
+2025-01-06,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_1256,desktop,CE,active,750.24,BRL,835,15,0,0.0
+2025-01-06,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_1061,desktop,AL,active,1217.84,BRL,1938,62,1,1179.38
+2025-01-06,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_8332,desktop,SE,active,737.79,BRL,3540,140,6,5889.97
+2025-01-06,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_4143,mobile,RN,active,1344.47,BRL,5787,201,6,8722.06
+2025-01-06,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_2068,desktop,AL,active,1993.82,BRL,966,17,0,0.0
+2025-01-07,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_7873,desktop,RN,active,719.18,BRL,3596,53,0,0.0
+2025-01-07,meta_ads,meta,5,Periféricos,awareness,Imposto 0,cr_1483,mobile,BA,active,1943.6,BRL,3019,39,1,1538.63
+2025-01-07,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_2808,desktop,BA,active,1564.47,BRL,4545,173,4,3686.47
+2025-01-07,meta_ads,meta,5,Periféricos,awareness,Imposto 0,cr_1886,desktop,AL,active,1006.27,BRL,1803,21,1,1156.78
+2025-01-07,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_6045,desktop,CE,active,1151.54,BRL,5135,86,3,2261.55
+2025-01-07,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_1187,mobile,PE,active,1247.1,BRL,890,19,0,0.0
+2025-01-07,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_8291,mobile,CE,active,1612.07,BRL,2404,44,0,0.0
+2025-01-07,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_4626,desktop,SE,active,1981.08,BRL,4119,78,2,3198.58
+2025-01-07,meta_ads,meta,4,Monitor,conversions,Imposto 0,cr_3658,mobile,SE,active,1091.59,BRL,5848,62,1,831.03
+2025-01-07,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_1219,mobile,PE,active,1136.36,BRL,1929,65,1,1009.2
+2025-01-08,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_8830,desktop,AL,active,1366.23,BRL,3110,88,4,3128.35
+2025-01-08,meta_ads,meta,5,Periféricos,awareness,Imposto 0,cr_7176,mobile,AL,active,801.03,BRL,4371,66,2,2954.27
+2025-01-08,meta_ads,meta,2,Memoria RAM,conversions,Lançamento,cr_1198,mobile,RN,active,1428.33,BRL,2564,88,3,3679.81
+2025-01-08,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_8698,desktop,RN,active,1158.48,BRL,3866,123,4,4708.12
+2025-01-08,meta_ads,meta,3,Placa de vídeo,traffic,Promo Janeiro,cr_2889,desktop,PE,active,564.33,BRL,4717,119,3,2731.57
+2025-01-08,meta_ads,meta,2,Memoria RAM,conversions,Lançamento,cr_1751,mobile,RN,active,315.54,BRL,2026,26,0,0.0
+2025-01-08,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_6117,desktop,RN,active,1630.17,BRL,2886,40,1,856.06
+2025-01-08,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_8200,mobile,AL,active,1836.11,BRL,3730,142,2,2842.13
+2025-01-08,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_1557,desktop,SE,active,1615.73,BRL,2582,92,1,1791.61
+2025-01-08,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_5689,desktop,PE,active,1144.63,BRL,1152,29,1,921.15
+2025-01-09,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_3454,desktop,RN,active,794.7,BRL,3823,94,4,3337.38
+2025-01-09,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_5081,mobile,CE,active,1078.46,BRL,5253,90,3,4614.07
+2025-01-09,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_1333,mobile,RN,active,356.91,BRL,2805,54,0,0.0
+2025-01-09,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_9695,desktop,SE,active,319.67,BRL,3136,60,2,1748.39
+2025-01-09,meta_ads,meta,5,Periféricos,awareness,Imposto 0,cr_6474,desktop,AL,active,526.51,BRL,5253,88,3,4036.13
+2025-01-09,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_7629,desktop,CE,active,1902.58,BRL,5253,110,4,3206.17
+2025-01-09,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_1628,desktop,AL,active,1270.04,BRL,4069,102,2,1416.7
+2025-01-09,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_8476,desktop,SE,active,767.41,BRL,3529,121,4,4697.35
+2025-01-09,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_8636,desktop,CE,active,333.1,BRL,2873,59,2,2063.25
+2025-01-09,meta_ads,meta,3,Placa de vídeo,traffic,Remarketing,cr_3426,desktop,SE,active,322.36,BRL,3709,38,1,1548.1
+2025-01-10,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_5428,desktop,CE,active,1696.66,BRL,1246,19,0,0.0
+2025-01-10,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_1378,mobile,SE,active,246.86,BRL,4332,100,3,3971.75
+2025-01-10,meta_ads,meta,3,Placa de vídeo,traffic,Remarketing,cr_8101,desktop,AL,active,1427.74,BRL,1757,50,2,2242.41
+2025-01-10,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_2276,mobile,AL,active,1811.67,BRL,5250,153,4,3262.11
+2025-01-10,meta_ads,meta,3,Placa de vídeo,traffic,Imposto 0,cr_2613,mobile,BA,active,220.3,BRL,2412,64,1,732.81
+2025-01-10,meta_ads,meta,1,CPU,conversions,Black Friday,cr_3474,desktop,CE,active,582.27,BRL,3624,97,1,1492.71
+2025-01-10,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_8374,mobile,BA,active,1639.55,BRL,2245,25,1,1688.66
+2025-01-10,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_2703,desktop,AL,active,1312.43,BRL,4296,141,5,7498.73
+2025-01-10,meta_ads,meta,3,Placa de vídeo,traffic,Imposto 0,cr_6503,mobile,PE,active,793.16,BRL,1346,50,1,1596.77
+2025-01-10,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_5981,mobile,RN,active,1948.16,BRL,4975,122,4,4198.21
+2025-01-11,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_5459,desktop,AL,active,810.9,BRL,2753,54,1,1577.82
+2025-01-11,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_4845,mobile,BA,active,1063.97,BRL,5080,106,4,5561.86
+2025-01-11,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_8904,mobile,AL,active,1309.63,BRL,2489,92,2,3166.86
+2025-01-11,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_9587,desktop,SE,active,109.19,BRL,5814,140,6,5376.12
+2025-01-11,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_2036,mobile,RN,active,1881.68,BRL,3809,71,1,1652.94
+2025-01-11,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_2548,desktop,BA,active,756.42,BRL,5647,65,1,1708.31
+2025-01-11,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_3546,desktop,CE,active,1590.48,BRL,2446,78,2,2906.69
+2025-01-11,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_2913,desktop,BA,active,455.69,BRL,3854,124,4,3557.85
+2025-01-11,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_1845,desktop,AL,active,1043.43,BRL,4450,81,1,1147.49
+2025-01-11,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_4386,mobile,PE,active,889.13,BRL,4926,115,4,4930.13
+2025-01-12,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_4153,mobile,PE,active,1182.2,BRL,2251,36,0,0.0
+2025-01-12,meta_ads,meta,1,CPU,conversions,Lançamento,cr_7385,mobile,SE,active,1690.72,BRL,3749,84,3,3241.74
+2025-01-12,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_9654,desktop,PE,active,1821.61,BRL,4078,126,2,3165.1
+2025-01-12,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_8536,mobile,RN,active,689.04,BRL,3517,90,3,4407.41
+2025-01-12,meta_ads,meta,3,Placa de vídeo,traffic,Remarketing,cr_7678,mobile,PE,active,1108.55,BRL,1279,37,1,1487.42
+2025-01-12,meta_ads,meta,4,Monitor,conversions,Promo Janeiro,cr_7438,mobile,CE,active,246.68,BRL,2031,27,1,778.91
+2025-01-12,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_1256,desktop,PE,active,1648.98,BRL,4315,53,1,700.9
+2025-01-12,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_7197,desktop,BA,active,1552.91,BRL,5924,162,4,4086.27
+2025-01-12,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_9845,mobile,PE,active,973.35,BRL,1431,39,1,1413.97
+2025-01-12,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_6523,desktop,RN,active,662.04,BRL,2533,68,1,1360.55
+2025-01-13,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_6998,desktop,BA,active,946.44,BRL,2370,54,1,1772.35
+2025-01-13,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_6371,mobile,AL,active,534.87,BRL,4775,179,2,1496.24
+2025-01-13,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_4552,desktop,BA,active,1254.47,BRL,5187,193,4,4755.28
+2025-01-13,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_6848,mobile,BA,active,420.43,BRL,5477,198,5,3808.11
+2025-01-13,meta_ads,meta,3,Placa de vídeo,traffic,Remarketing,cr_4550,desktop,SE,active,614.44,BRL,988,37,1,814.94
+2025-01-13,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_3522,desktop,AL,active,1277.66,BRL,2406,30,1,1612.69
+2025-01-13,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_5471,mobile,SE,active,1147.46,BRL,2678,30,0,0.0
+2025-01-13,meta_ads,meta,1,CPU,conversions,Remarketing,cr_9337,mobile,AL,active,395.72,BRL,3449,108,2,1596.81
+2025-01-13,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_4339,mobile,PE,active,1802.42,BRL,2233,24,0,0.0
+2025-01-13,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_8520,desktop,SE,active,1273.31,BRL,5762,222,9,8923.56
+2025-01-14,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_1175,mobile,SE,active,1045.69,BRL,5702,135,2,3496.27
+2025-01-14,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_2897,mobile,CE,active,1080.64,BRL,2042,30,0,0.0
+2025-01-14,meta_ads,meta,3,Placa de vídeo,traffic,Imposto 0,cr_6998,mobile,RN,active,339.71,BRL,1920,22,0,0.0
+2025-01-14,meta_ads,meta,1,CPU,conversions,Remarketing,cr_5590,mobile,CE,active,1917.53,BRL,3319,88,3,4712.11
+2025-01-14,meta_ads,meta,1,CPU,conversions,Black Friday,cr_4895,mobile,CE,active,1014.78,BRL,3733,40,0,0.0
+2025-01-14,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_3180,desktop,PE,active,727.25,BRL,2160,35,1,1336.01
+2025-01-14,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_7038,mobile,AL,active,767.4,BRL,4123,164,3,2614.52
+2025-01-14,meta_ads,meta,1,CPU,conversions,Remarketing,cr_1058,desktop,AL,active,1713.1,BRL,4467,163,7,7213.13
+2025-01-14,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_7274,desktop,CE,active,1052.69,BRL,3926,71,2,2513.69
+2025-01-14,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_7801,desktop,CE,active,500.9,BRL,5668,219,10,12543.57
+2025-01-15,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_5024,desktop,PE,active,851.05,BRL,2390,88,3,2711.65
+2025-01-15,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_6929,mobile,AL,active,1443.36,BRL,2771,69,1,1686.25
+2025-01-15,meta_ads,meta,2,Memoria RAM,conversions,Lançamento,cr_7868,mobile,SE,active,261.42,BRL,5477,194,6,7054.98
+2025-01-15,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_8001,mobile,SE,active,1568.55,BRL,2296,91,1,1797.84
+2025-01-15,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_5639,desktop,AL,active,1510.58,BRL,3839,45,1,885.23
+2025-01-15,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_9478,desktop,CE,active,313.57,BRL,4132,129,5,7348.73
+2025-01-15,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_1505,desktop,BA,active,290.96,BRL,1352,53,1,1239.33
+2025-01-15,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_5883,mobile,CE,active,1583.11,BRL,1036,26,1,1021.18
+2025-01-15,meta_ads,meta,4,Monitor,conversions,Promo Janeiro,cr_9338,desktop,SE,active,1605.36,BRL,4530,111,4,4020.37
+2025-01-15,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_5029,desktop,RN,active,237.77,BRL,2025,46,2,2875.68
+2025-01-16,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_5925,desktop,RN,active,171.28,BRL,4304,128,2,3110.11
+2025-01-16,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_1482,desktop,BA,active,140.44,BRL,4661,127,5,7821.28
+2025-01-16,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_8127,mobile,CE,active,1798.73,BRL,2132,21,1,1528.61
+2025-01-16,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_1126,mobile,RN,active,1875.98,BRL,5847,73,3,5361.47
+2025-01-16,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_3367,desktop,PE,active,1344.49,BRL,2439,52,1,1094.74
+2025-01-16,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_5614,mobile,BA,active,1373.1,BRL,3754,69,1,1282.9
+2025-01-16,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_8651,mobile,BA,active,324.06,BRL,3554,74,2,3384.04
+2025-01-16,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_7872,mobile,CE,active,897.17,BRL,3357,121,2,3525.58
+2025-01-16,meta_ads,meta,1,CPU,conversions,Remarketing,cr_4806,desktop,AL,active,1744.0,BRL,3516,105,3,2680.67
+2025-01-16,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_3083,desktop,PE,active,1962.99,BRL,3539,44,1,788.26
+2025-01-17,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_5791,desktop,BA,active,1298.61,BRL,1843,44,1,1567.92
+2025-01-17,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_9677,mobile,CE,active,1961.88,BRL,4990,61,2,1670.14
+2025-01-17,meta_ads,meta,4,Monitor,conversions,Promo Janeiro,cr_5424,mobile,CE,active,1235.93,BRL,1423,34,0,0.0
+2025-01-17,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_6522,mobile,RN,active,1644.4,BRL,2565,100,2,3104.47
+2025-01-17,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_1269,mobile,AL,active,1127.64,BRL,1147,11,0,0.0
+2025-01-17,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_2616,mobile,SE,active,255.33,BRL,1138,19,0,0.0
+2025-01-17,meta_ads,meta,3,Placa de vídeo,traffic,Remarketing,cr_6668,desktop,PE,active,579.29,BRL,2789,65,1,1580.28
+2025-01-17,meta_ads,meta,3,Placa de vídeo,traffic,Promo Janeiro,cr_4028,mobile,SE,active,1423.09,BRL,1365,31,1,802.82
+2025-01-17,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_6766,mobile,CE,active,1705.98,BRL,3391,117,3,2431.27
+2025-01-17,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_9717,desktop,SE,active,1928.52,BRL,1814,26,0,0.0
+2025-01-18,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_7408,mobile,RN,active,1888.45,BRL,3255,69,2,1513.32
+2025-01-18,meta_ads,meta,5,Periféricos,awareness,Imposto 0,cr_1690,desktop,PE,active,898.77,BRL,2305,78,2,1489.66
+2025-01-18,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_3532,desktop,BA,active,1306.82,BRL,4083,157,5,7684.46
+2025-01-18,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_9818,mobile,RN,active,1219.23,BRL,2040,20,0,0.0
+2025-01-18,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_4448,desktop,BA,active,451.56,BRL,3626,50,0,0.0
+2025-01-18,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_1835,desktop,CE,active,1617.21,BRL,1823,45,1,1677.83
+2025-01-18,meta_ads,meta,1,CPU,conversions,Black Friday,cr_7924,desktop,AL,active,250.16,BRL,4144,144,3,5050.0
+2025-01-18,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_2358,mobile,CE,active,1383.2,BRL,926,29,0,0.0
+2025-01-18,meta_ads,meta,1,CPU,conversions,Remarketing,cr_4172,mobile,RN,active,1978.54,BRL,2708,50,1,1229.52
+2025-01-18,meta_ads,meta,1,CPU,conversions,Remarketing,cr_3618,mobile,RN,active,1778.62,BRL,3088,90,4,6756.57
+2025-01-19,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_8966,mobile,SE,active,420.09,BRL,4454,163,6,10181.4
+2025-01-19,meta_ads,meta,4,Monitor,conversions,Imposto 0,cr_9832,desktop,CE,active,1372.09,BRL,4246,129,2,3005.51
+2025-01-19,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_1587,desktop,CE,active,1662.85,BRL,5217,114,3,4832.76
+2025-01-19,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_7364,mobile,AL,active,419.7,BRL,947,25,0,0.0
+2025-01-19,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_2433,desktop,CE,active,1250.09,BRL,5654,92,2,1593.24
+2025-01-19,meta_ads,meta,2,Memoria RAM,conversions,Imposto 0,cr_7618,mobile,RN,active,659.04,BRL,3240,88,4,3205.2
+2025-01-19,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_1898,desktop,BA,active,569.55,BRL,2912,44,1,1213.1
+2025-01-19,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_1296,mobile,SE,active,386.09,BRL,4996,76,3,2154.83
+2025-01-19,meta_ads,meta,1,CPU,conversions,Remarketing,cr_2089,desktop,AL,active,1820.23,BRL,821,20,0,0.0
+2025-01-19,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_5029,desktop,BA,active,1216.93,BRL,4289,78,2,2813.06
+2025-01-20,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_2020,desktop,SE,active,650.33,BRL,5990,205,9,6917.31
+2025-01-20,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_6537,desktop,PE,active,1516.53,BRL,5853,230,8,11631.05
+2025-01-20,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_8131,desktop,RN,active,512.22,BRL,5657,124,5,4274.66
+2025-01-20,meta_ads,meta,3,Placa de vídeo,traffic,Remarketing,cr_9245,mobile,PE,active,569.32,BRL,4594,70,2,1670.66
+2025-01-20,meta_ads,meta,3,Placa de vídeo,traffic,Imposto 0,cr_3192,mobile,PE,active,227.2,BRL,4828,91,1,1602.16
+2025-01-20,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_9285,mobile,BA,active,639.73,BRL,5394,168,4,4512.87
+2025-01-20,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_9232,mobile,RN,active,167.11,BRL,3281,115,5,8831.02
+2025-01-20,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_6093,mobile,BA,active,672.93,BRL,1293,35,1,1367.43
+2025-01-20,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_8793,mobile,AL,active,166.81,BRL,1770,45,1,1606.45
+2025-01-20,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_4827,mobile,AL,active,712.2,BRL,2575,43,1,1210.85
+2025-01-21,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_2671,mobile,PE,active,737.35,BRL,3905,101,3,3707.1
+2025-01-21,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_2114,mobile,SE,active,620.72,BRL,1849,60,1,1371.62
+2025-01-21,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_6780,mobile,BA,active,629.58,BRL,2188,52,0,0.0
+2025-01-21,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_4960,mobile,AL,active,1723.9,BRL,3007,84,4,4360.16
+2025-01-21,meta_ads,meta,2,Memoria RAM,conversions,Lançamento,cr_1185,desktop,AL,active,1674.96,BRL,4566,76,3,4480.69
+2025-01-21,meta_ads,meta,1,CPU,conversions,Remarketing,cr_2410,desktop,CE,active,1009.16,BRL,5706,184,7,12564.93
+2025-01-21,meta_ads,meta,4,Monitor,conversions,Promo Janeiro,cr_8884,mobile,SE,active,1990.16,BRL,4268,134,3,3704.51
+2025-01-21,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_6797,desktop,PE,active,1349.85,BRL,5609,218,10,15146.52
+2025-01-21,meta_ads,meta,4,Monitor,conversions,Imposto 0,cr_7242,mobile,PE,active,1998.23,BRL,1364,42,1,713.28
+2025-01-21,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_3409,mobile,AL,active,1220.56,BRL,2218,35,1,1187.77
+2025-01-22,meta_ads,meta,3,Placa de vídeo,traffic,Imposto 0,cr_8316,desktop,CE,active,1118.05,BRL,4791,137,5,8239.52
+2025-01-22,meta_ads,meta,4,Monitor,conversions,Promo Janeiro,cr_4723,mobile,SE,active,907.05,BRL,3728,119,4,3248.38
+2025-01-22,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_7753,mobile,PE,active,1304.28,BRL,4877,167,4,5486.6
+2025-01-22,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_7969,mobile,AL,active,225.67,BRL,1216,15,0,0.0
+2025-01-22,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_6347,desktop,AL,active,1571.22,BRL,927,32,0,0.0
+2025-01-22,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_5814,desktop,SE,active,147.16,BRL,5639,158,3,3241.69
+2025-01-22,meta_ads,meta,1,CPU,conversions,Black Friday,cr_8892,mobile,BA,active,132.23,BRL,3004,31,1,1619.23
+2025-01-22,meta_ads,meta,1,CPU,conversions,Remarketing,cr_9459,mobile,AL,active,1498.92,BRL,1722,58,2,3485.29
+2025-01-22,meta_ads,meta,3,Placa de vídeo,traffic,Promo Janeiro,cr_6770,desktop,SE,active,256.82,BRL,1035,14,0,0.0
+2025-01-22,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_8515,desktop,BA,active,904.42,BRL,1632,45,2,3057.11
+2025-01-23,meta_ads,meta,4,Monitor,conversions,Promo Janeiro,cr_8087,desktop,SE,active,1299.96,BRL,3878,48,0,0.0
+2025-01-23,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_3298,mobile,SE,active,1817.35,BRL,1597,55,2,1789.73
+2025-01-23,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_5737,mobile,BA,active,773.47,BRL,3404,73,1,1611.37
+2025-01-23,meta_ads,meta,3,Placa de vídeo,traffic,Remarketing,cr_1022,mobile,BA,active,933.09,BRL,3205,85,2,1489.83
+2025-01-23,meta_ads,meta,3,Placa de vídeo,traffic,Promo Janeiro,cr_7031,mobile,AL,active,1836.58,BRL,4936,195,5,8402.5
+2025-01-23,meta_ads,meta,3,Placa de vídeo,traffic,Imposto 0,cr_2941,mobile,SE,active,1030.86,BRL,3033,84,1,1047.03
+2025-01-23,meta_ads,meta,4,Monitor,conversions,Promo Janeiro,cr_9265,mobile,AL,active,1931.2,BRL,4317,44,0,0.0
+2025-01-23,meta_ads,meta,1,CPU,conversions,Black Friday,cr_9033,mobile,PE,active,223.09,BRL,3378,74,2,3111.21
+2025-01-23,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_6053,mobile,PE,active,1196.36,BRL,1906,40,1,1690.9
+2025-01-23,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_1389,mobile,SE,active,747.53,BRL,3376,123,5,6768.86
+2025-01-24,meta_ads,meta,4,Monitor,conversions,Imposto 0,cr_1241,desktop,AL,active,920.7,BRL,1192,33,0,0.0
+2025-01-24,meta_ads,meta,3,Placa de vídeo,traffic,Promo Janeiro,cr_2371,desktop,RN,active,1170.26,BRL,4274,135,4,6947.55
+2025-01-24,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_9728,desktop,SE,active,116.83,BRL,4793,156,7,11104.25
+2025-01-24,meta_ads,meta,1,CPU,conversions,Black Friday,cr_6259,mobile,BA,active,728.39,BRL,2899,91,3,3916.38
+2025-01-24,meta_ads,meta,4,Monitor,conversions,Promo Janeiro,cr_7094,mobile,BA,active,626.17,BRL,1531,53,1,1715.68
+2025-01-24,meta_ads,meta,2,Memoria RAM,conversions,Lançamento,cr_7193,desktop,RN,active,655.09,BRL,2268,75,1,1365.14
+2025-01-24,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_3233,mobile,CE,active,341.17,BRL,5519,75,3,2577.53
+2025-01-24,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_1877,mobile,PE,active,927.93,BRL,1675,36,1,840.08
+2025-01-24,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_5686,mobile,RN,active,1838.68,BRL,3371,102,4,4981.94
+2025-01-24,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_2816,mobile,RN,active,947.83,BRL,4555,136,5,5799.67
+2025-01-25,meta_ads,meta,4,Monitor,conversions,Imposto 0,cr_9472,desktop,SE,active,917.0,BRL,2309,68,2,2014.27
+2025-01-25,meta_ads,meta,4,Monitor,conversions,Lançamento,cr_6521,desktop,PE,active,1648.1,BRL,3133,89,1,1654.58
+2025-01-25,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_8875,mobile,PE,active,1939.1,BRL,3802,135,3,2577.05
+2025-01-25,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_7677,desktop,RN,active,1806.22,BRL,2790,56,1,1077.09
+2025-01-25,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_8467,mobile,SE,active,217.97,BRL,1168,38,1,828.04
+2025-01-25,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_7602,desktop,RN,active,1587.67,BRL,4793,158,2,2336.12
+2025-01-25,meta_ads,meta,5,Periféricos,awareness,Remarketing,cr_3088,mobile,CE,active,200.8,BRL,3876,110,4,2904.24
+2025-01-25,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_6911,mobile,AL,active,531.88,BRL,4756,120,3,4268.54
+2025-01-25,meta_ads,meta,4,Monitor,conversions,Black Friday,cr_6214,desktop,RN,active,1689.95,BRL,4912,136,2,2926.4
+2025-01-25,meta_ads,meta,2,Memoria RAM,conversions,Black Friday,cr_2994,mobile,RN,active,683.69,BRL,4471,136,5,5834.9
+2025-01-26,meta_ads,meta,3,Placa de vídeo,traffic,Remarketing,cr_7677,mobile,CE,active,1198.52,BRL,1518,17,0,0.0
+2025-01-26,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_5284,desktop,RN,active,770.77,BRL,4239,137,6,5154.88
+2025-01-26,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_8514,desktop,RN,active,1375.59,BRL,3423,67,2,2316.41
+2025-01-26,meta_ads,meta,3,Placa de vídeo,traffic,Imposto 0,cr_2099,desktop,PE,active,1380.47,BRL,4443,108,4,6337.28
+2025-01-26,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_6762,desktop,PE,active,1161.41,BRL,3336,94,4,4579.14
+2025-01-26,meta_ads,meta,3,Placa de vídeo,traffic,Remarketing,cr_8445,mobile,CE,active,888.67,BRL,4564,70,2,3391.96
+2025-01-26,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_3559,mobile,CE,active,833.93,BRL,3820,101,1,1653.45
+2025-01-26,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_6513,mobile,SE,active,1747.68,BRL,1048,39,1,1039.34
+2025-01-26,meta_ads,meta,5,Periféricos,awareness,Promo Janeiro,cr_9904,mobile,PE,active,1884.71,BRL,3687,38,1,1630.75
+2025-01-26,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_7642,desktop,BA,active,627.17,BRL,5995,186,4,4492.27
+2025-01-27,meta_ads,meta,1,CPU,conversions,Black Friday,cr_8806,desktop,PE,active,929.42,BRL,3145,68,1,1447.22
+2025-01-27,meta_ads,meta,1,CPU,conversions,Lançamento,cr_9851,mobile,CE,active,1058.26,BRL,1388,14,0,0.0
+2025-01-27,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_1947,mobile,PE,active,700.37,BRL,5960,125,3,2244.56
+2025-01-27,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_3608,desktop,SE,active,716.05,BRL,4140,151,5,5600.76
+2025-01-27,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_4583,mobile,SE,active,234.69,BRL,1286,37,1,1506.71
+2025-01-27,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_7356,desktop,AL,active,448.38,BRL,4516,174,3,3236.31
+2025-01-27,meta_ads,meta,1,CPU,conversions,Black Friday,cr_1389,mobile,AL,active,987.1,BRL,4796,81,3,4874.7
+2025-01-27,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_6117,mobile,CE,active,1996.99,BRL,3406,70,3,4334.04
+2025-01-27,meta_ads,meta,1,CPU,conversions,Lançamento,cr_5632,desktop,AL,active,1826.94,BRL,2159,50,2,3207.74
+2025-01-27,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_5966,mobile,BA,active,1229.07,BRL,5297,130,4,5925.89
+2025-01-28,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_7368,desktop,RN,active,1000.19,BRL,5019,183,8,12839.76
+2025-01-28,meta_ads,meta,3,Placa de vídeo,traffic,Promo Janeiro,cr_1938,mobile,CE,active,262.29,BRL,5285,102,1,1358.34
+2025-01-28,meta_ads,meta,4,Monitor,conversions,Imposto 0,cr_8724,desktop,BA,active,189.01,BRL,1232,23,1,1325.79
+2025-01-28,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_6076,mobile,CE,active,1024.0,BRL,4773,116,2,3528.66
+2025-01-28,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_9805,desktop,PE,active,1110.08,BRL,5078,55,1,1465.26
+2025-01-28,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_7530,desktop,PE,active,1648.88,BRL,2098,82,1,884.0
+2025-01-28,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_5150,mobile,AL,active,477.52,BRL,949,33,0,0.0
+2025-01-28,meta_ads,meta,3,Placa de vídeo,traffic,Black Friday,cr_9192,desktop,PE,active,120.47,BRL,2233,30,0,0.0
+2025-01-28,meta_ads,meta,1,CPU,conversions,Promo Janeiro,cr_2995,desktop,RN,active,1086.56,BRL,2940,83,3,3360.5
+2025-01-28,meta_ads,meta,3,Placa de vídeo,traffic,Remarketing,cr_5864,mobile,PE,active,343.27,BRL,3594,50,1,1254.52
+2025-01-29,meta_ads,meta,1,CPU,conversions,Black Friday,cr_6888,mobile,BA,active,1584.05,BRL,5460,123,6,6013.94
+2025-01-29,meta_ads,meta,1,CPU,conversions,Lançamento,cr_8990,mobile,BA,active,387.43,BRL,3914,129,4,5994.2
+2025-01-29,meta_ads,meta,2,Memoria RAM,conversions,Promo Janeiro,cr_2541,desktop,SE,active,955.33,BRL,3157,71,1,942.52
+2025-01-29,meta_ads,meta,3,Placa de vídeo,traffic,Promo Janeiro,cr_9653,desktop,AL,active,407.61,BRL,1320,36,1,1038.24
+2025-01-29,meta_ads,meta,2,Memoria RAM,conversions,Lançamento,cr_7768,desktop,BA,active,795.28,BRL,1926,30,1,1182.71
+2025-01-29,meta_ads,meta,5,Periféricos,awareness,Black Friday,cr_2204,mobile,PE,active,696.75,BRL,3868,122,3,5132.21
+2025-01-29,meta_ads,meta,1,CPU,conversions,Imposto 0,cr_2403,mobile,SE,active,510.68,BRL,2810,49,0,0.0
+2025-01-29,meta_ads,meta,5,Periféricos,awareness,Lançamento,cr_2768,desktop,BA,active,1958.22,BRL,996,12,0,0.0
+2025-01-29,meta_ads,meta,2,Memoria RAM,conversions,Lançamento,cr_3230,mobile,CE,active,380.12,BRL,4010,93,4,6698.41
+2025-01-29,meta_ads,meta,4,Monitor,conversions,Remarketing,cr_7329,mobile,PE,active,1126.35,BRL,5325,191,4,3350.45
+2025-01-30,meta_ads,meta,4,Monitor,conversions,Imposto 0,cr_8658,desktop,PE,active,819.41,BRL,4542,47,1,947.81
+2025-01-30,meta_ads,meta,1,CPU,conversions,Black Friday,cr_1186,mobile,PE,active,129.1,BRL,3245,94,4,6436.11
+2025-01-30,meta_ads,meta,4,Monitor,conversions,Imposto 0,cr_8533,mobile,BA,active,505.15,BRL,2146,26,0,0.0
+2025-01-30,meta_ads,meta,3,Placa de vídeo,traffic,Promo Janeiro,cr_9369,mobile,SE,active,1018.1,BRL,3253,41,0,0.0
+2025-01-30,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_2097,mobile,CE,active,1638.73,BRL,2983,101,3,4175.57
+2025-01-30,meta_ads,meta,1,CPU,conversions,Black Friday,cr_7568,desktop,PE,active,1404.09,BRL,2527,27,0,0.0
+2025-01-30,meta_ads,meta,1,CPU,conversions,Black Friday,cr_8846,desktop,RN,active,114.37,BRL,1841,20,0,0.0
+2025-01-30,meta_ads,meta,2,Memoria RAM,conversions,Remarketing,cr_3464,desktop,PE,active,871.06,BRL,1273,18,0,0.0
+2025-01-30,meta_ads,meta,1,CPU,conversions,Remarketing,cr_4644,mobile,SE,active,303.61,BRL,2546,27,0,0.0
+2025-01-30,meta_ads,meta,3,Placa de vídeo,traffic,Lançamento,cr_2632,desktop,CE,active,1034.57,BRL,2664,59,1,1173.14
