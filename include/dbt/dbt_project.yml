@@ -1,0 +1,21 @@
+name: 'meta'
+version: '1.0.0'
+config-version: 2
+
+profile: 'meta'
+
+vars:
+  bq_project: "tccmarketing" 
+
+models:
+  meta_ads_analytics:
+    transform:
+      silver:
+        +materialized: view
+        +schema: silver
+      metrics:
+        +materialized: table
+        +schema: silver
+    analytics:
+      +materialized: table
+      +schema: gold

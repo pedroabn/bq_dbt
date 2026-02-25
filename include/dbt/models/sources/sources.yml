@@ -1,0 +1,46 @@
+version: 2
+
+sources:
+  - name: meta
+    database: "{{ var('bq_project') }}"
+    schema: meta
+    description: "Dados brutos de campanhas do Meta Ads carregados no BigQuery."
+
+    tables:
+      - name: meta_ads_raw
+        description: "Tabela bruta com dados de performance por criativo, campanha, região e dispositivo."
+        columns:
+          - name: date
+            description: "Data da métrica (YYYY-MM-DD)."
+          - name: channel
+            description: "Canal de mídia (ex: meta_ads)."
+          - name: platform
+            description: "Plataforma (ex: meta)."
+          - name: campaign_id
+            description: "Identificador numérico da campanha."
+          - name: campaign
+            description: "Nome da campanha."
+          - name: objective
+            description: "Objetivo da campanha (conversions, traffic, awareness)."
+          - name: ad_group
+            description: "Grupo de anúncio / conjunto de anúncio."
+          - name: creative_id
+            description: "Identificador do criativo."
+          - name: device
+            description: "Dispositivo (desktop / mobile)."
+          - name: region
+            description: "Sigla do estado brasileiro."
+          - name: status
+            description: "Status da campanha (active / paused)."
+          - name: budget_daily
+            description: "Orçamento diário em BRL."
+          - name: currency
+            description: "Moeda do orçamento."
+          - name: impressions
+            description: "Número de impressões."
+          - name: clicks
+            description: "Número de cliques."
+          - name: conversions
+            description: "Número de conversões."
+          - name: revenue
+            description: "Receita gerada em BRL."
