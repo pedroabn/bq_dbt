@@ -17,7 +17,7 @@
 
 with base as (
 
-    select * from {{ ref('stg_meta_ads') }}
+    select * from {{ ref('silver') }}
 
 ),
 
