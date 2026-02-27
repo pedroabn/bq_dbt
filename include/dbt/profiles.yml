@@ -1,6 +1,6 @@
 # profiles.yml
 
-retail:
+meta:
  target: dev
  outputs:
   dev:

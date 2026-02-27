@@ -1,10 +1,14 @@
 from airflow.decorators import dag, task
 from datetime import datetime
+
 from airflow.providers.google.cloud.operators.bigquery import BigQueryCreateEmptyDatasetOperator
+from airflow.providers.google.cloud.transfers.local_to_gcs import LocalFilesystemToGCSOperator
+
 from astro import sql as aql
 from astro.files import File
 from astro.sql.table import Table, Metadata
 from astro.constants import FileType
+
 from include.dbt.cosmos_config import DBT_PROJECT_CONFIG, DBT_CONFIG
 from cosmos.airflow.task_group import DbtTaskGroup
 from cosmos.constants import LoadMode
@@ -24,7 +28,7 @@ def meta():
     
     upload_gcs = LocalFilesystemToGCSOperator(
         task_id="upload_gcs",
-        src="/usr/local/airflow/data/meta_ads_raw.csv",   # caminho no container
+        src="/usr/local/airflow/include/dataset/meta_ads_raw.csv",   # caminho no container
         dst="bronze/meta_ads_raw.csv",
         bucket="campanhas",
         gcp_conn_id="gcp",
@@ -73,4 +77,5 @@ def meta():
         ),
     )
     upload_gcs >> create_meta_dataset >> gcs_to_bronze >> transform >> report
+
 meta()
