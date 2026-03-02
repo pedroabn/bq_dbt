@@ -1,9 +1,4 @@
-{{
-    config(
-        materialized='table',
-        schema='staging'
-    )
-}}
+
 
 /*
   silver
@@ -18,7 +13,7 @@
 
 with source as (
 
-    select * from {{ source('meta', 'meta_ads_raw') }}
+    select * from `tccmarketing`.`meta`.`meta_ads_raw`
 
 ),
 

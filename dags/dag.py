@@ -30,7 +30,7 @@ def meta():
         task_id="upload_gcs",
         src="/usr/local/airflow/include/dataset/meta_ads_raw.csv",   # caminho no container
         dst="bronze/meta_ads_raw.csv",
-        bucket="campanhas",
+        bucket="campaign-tcc",
         gcp_conn_id="gcp",
         mime_type="text/csv",
     )
@@ -45,7 +45,7 @@ def meta():
     gcs_to_bronze = aql.load_file(
         task_id="gcs_to_bronze",
         input_file=File(
-            path="gs://campanhas/bronze/meta_ads_raw.csv",
+            path="gs://campaign-tcc/bronze/meta_ads_raw.csv",
             conn_id="gcp",
             filetype=FileType.CSV,
         ),

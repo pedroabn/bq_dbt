@@ -5,17 +5,18 @@ config-version: 2
 profile: 'meta'
 
 vars:
-  bq_project: "tccmarketing" 
+  bq_project: "tccmarketing"
 
 models:
-  meta_ads_analytics:
+  meta:
+    staging:
+      +materialized: view
+      +schema: staging
+
     transform:
-      silver:
-        +materialized: view
-        +schema: silver
-      metrics:
-        +materialized: table
-        +schema: silver
+      +materialized: table
+      +schema: silver
+
     analytics:
       +materialized: table
       +schema: gold
