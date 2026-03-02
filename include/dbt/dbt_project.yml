@@ -9,10 +9,6 @@ vars:
 
 models:
   meta:
-    staging:
-      +materialized: view
-      +schema: staging
-
     transform:
       +materialized: table
       +schema: silver

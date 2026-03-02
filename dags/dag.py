@@ -9,7 +9,7 @@ from astro.files import File
 from astro.sql.table import Table, Metadata
 from astro.constants import FileType
 
-from include.dbt.cosmos_config import DBT_PROJECT_CONFIG, DBT_CONFIG
+from include.dbt.cosmos_config import DBT_PROJECT_CONFIG, DBT_CONFIG, DBT_EXECUTION_CONFIG
 from cosmos.airflow.task_group import DbtTaskGroup
 from cosmos.constants import LoadMode
 from cosmos.config import ProjectConfig, RenderConfig
@@ -57,10 +57,12 @@ def meta():
         use_native_support=False,
     )
 
+
     transform = DbtTaskGroup(
-        group_id="silver",
+        group_id="transform",
         project_config=DBT_PROJECT_CONFIG,
         profile_config=DBT_CONFIG,
+        execution_config=DBT_EXECUTION_CONFIG,
         render_config=RenderConfig(
             load_method=LoadMode.DBT_LS,
             select=["path:models/transform"],
@@ -68,9 +70,10 @@ def meta():
     )
 
     report = DbtTaskGroup(
-        group_id="report",
+        group_id="analytics",
         project_config=DBT_PROJECT_CONFIG,
         profile_config=DBT_CONFIG,
+        execution_config=DBT_EXECUTION_CONFIG,
         render_config=RenderConfig(
             load_method=LoadMode.DBT_LS,
             select=["path:models/analytics"],
