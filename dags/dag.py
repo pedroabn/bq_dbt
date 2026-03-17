@@ -28,7 +28,7 @@ def meta():
     
     upload_gcs = LocalFilesystemToGCSOperator(
         task_id="upload_gcs",
-        src="/usr/local/airflow/include/dataset/meta_ads_raw.csv",   # caminho no container
+        src="/usr/local/airflow/include/dataset/meta_ads_raw.csv", 
         dst="bronze/meta_ads_raw.csv",
         bucket="campaign-tcc",
         gcp_conn_id="gcp",

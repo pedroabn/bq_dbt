@@ -15,4 +15,4 @@ models:
 
     analytics:
       +materialized: table
-      +schema: gold
+      +schema: marts
